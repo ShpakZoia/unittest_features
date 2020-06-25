@@ -1,0 +1,4 @@
+class AtmBalance(Exception):
+    pass
+
+
